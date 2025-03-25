@@ -1,0 +1,1536 @@
+{
+  "1": {
+    "name": "Khyber Pakhtunkhwa",
+    "1": {
+      "name": "Bannu",
+      "1": {
+        "name": "Bannu",
+        "0": {
+          "name": "",
+          "1": "Bannu",
+          "2": "Domail"
+        },
+        "2": {
+          "name": "Bannu Cantonment",
+          "0": {
+            "name": "",
+            "1": "Lucky Marwat",
+            "2": "Sarai Norang"
+          }
+        }
+      }
+    },
+    "2": {
+      "name": "Dera Ismail Khan",
+      "1": {
+        "name": "Dera Ismail Khan",
+        "0": {
+          "name": "",
+          "1": "Dera Ismail Khan",
+          "2": "Kulachi",
+          "3": "Paharrpur",
+          "4": "Darabin",
+          "5": "Perwa"
+        }
+      },
+      "2": {
+        "name": "Taank",
+        "0": {
+          "name": "Taank",
+          "1": "Taank"
+        }
+      }
+    },
+    "3": {
+      "name": "Hazara",
+      "1": {
+        "name": "Abbottabad",
+        "0": {
+          "name": "Havelian",
+          "1": "Banda",
+          "2": "Seer Garhi"
+        }
+      },
+      "2": {
+        "name": "Batagram",
+        "0": {
+          "name": "",
+          "1": "Elai",
+          "2": "Kooza Banda"
+        }
+      },
+      "3": {
+        "name": "Haripur",
+        "0": {
+          "name": "",
+          "1": "Ghazi",
+          "2": "Kot Najeebullah"
+        }
+      },
+      "4": {
+        "name": "Kohistan",
+        "0": {
+          "name": "",
+          "1": "Daso",
+          "2": "Kolaye Pals",
+          "3": "Patan"
+        }
+      },
+      "5": {
+        "name": "Mansehra",
+        "0": {
+          "name": "",
+          "1": "Balakot",
+          "2": "Kala Dhaka",
+          "3": "Mansehra",
+          "4": "Augi"
+        }
+      }
+    },
+    "4": {
+      "name": "Kohat",
+      "1": {
+        "name": "",
+        "0": {
+          "name": "Hangu",
+          "1": "Hangu",
+          "2": "Tal"
+        }
+      },
+      "2": {
+        "name": "",
+        "0": {
+          "name": "Karak",
+          "1": "Banda Daud Shah",
+          "2": "Karak",
+          "3": "Takht Nusrati"
+        }
+      },
+      "3": {
+        "name": "",
+        "0": {
+          "name": "Kohat",
+          "1": "Kohat",
+          "2": "Laachi"
+        }
+      }
+    },
+    "5": {
+      "name": "Malakand",
+      "0": {
+        "name": "Deer",
+        "0": {
+          "name": "",
+          "0": ""
+        }
+      },
+      "1": {
+        "name": "Buner",
+        "0": {
+          "name": "Buner",
+          "1": "Dagar",
+          "2": "Gagarah",
+          "3": "Totalaye",
+          "4": "Mandnarh"
+        }
+      },
+      "2": {
+        "name": "Lower Chitral",
+        "0": {
+          "name": "Lower Chitral",
+          "1": "Chitral",
+          "2": "Mastuj"
+        }
+      },
+      "3": {
+        "name": "Lower Deer",
+        "0": {
+          "name": "Lower Dir",
+          "1": "Khall",
+          "2": "Temargara",
+          "3": "Samar Bagh",
+          "4": "Munda",
+          "5": "Lal Qila",
+          "6": "Balambat",
+          "7": "Audn Zai"
+        }
+      },
+      "4": {
+        "name": "Malakand",
+        "0": {
+          "name": "",
+          "1": "Dargai",
+          "2": "Butt Khela"
+        }
+      },
+      "5": {
+        "name": "Shangla",
+        "0": {
+          "name": "",
+          "1": "Alpuri",
+          "2": "Bashaam",
+          "3": "Chakesar",
+          "4": "Martoang",
+          "5": "Puran"
+        }
+      },
+      "6": {
+        "name": "Swat",
+        "0": {
+          "name": "",
+          "1": "Matta",
+          "2": "Mingora",
+          "3": "Brekot",
+          "4": "Kabl",
+          "5": "Khawaza Khaila",
+          "6": "Charbagh",
+          "7": "Babu Zai"
+        }
+      },
+      "7": {
+        "name": "Upper Dir",
+        "0": {
+          "name": "",
+          "1": "Jabar",
+          "2": "Warhi",
+          "3": "Kalkot",
+          "4": "Brawal",
+          "5": "Khal"
+        }
+      }
+    },
+    "6": {
+      "name": "Mardan",
+      "1": {
+        "name": "Mardan",
+        "0": {
+          "name": "",
+          "1": "Mardan",
+          "2": "Takht Bhai",
+          "3": "Katlang"
+        }
+      },
+      "2": {
+        "name": "Swabi",
+        "0": {
+          "name": "",
+          "1": "Lahor",
+          "2": "Swabi",
+          "3": "Topi",
+          "4": "Razrr"
+        }
+      }
+    },
+    "7": {
+      "name": "Peshawar",
+      "1": {
+        "name": "Charsadda",
+        "0": {
+          "name": "",
+          "1": "Charsadda",
+          "2": "Tangi",
+          "3": "Shahqadar"
+        }
+      },
+      "2": {
+        "name": "Nowshera",
+        "0": {
+          "name": "",
+          "1": "Nowshera",
+          "2": "Pabbi"
+        }
+      },
+      "3": {
+        "name": "Peshawar",
+        "0": {
+          "name": "",
+          "1": "Khail"
+        }
+      }
+    }
+  },
+  "2": {
+    "name": "FATA",
+    "1": {
+      "name": "Agency",
+      "1": {
+        "name": "Bajour",
+        "0": {
+          "name": "",
+          "1": "Bar Chamar Kand",
+          "2": "Barang",
+          "3": "Khaar",
+          "4": "Mamond",
+          "5": "Nawagai",
+          "6": "Salaarzai",
+          "7": "Utmaankhail"
+        }
+      },
+      "2": {
+        "name": "Khyber",
+        "0": {
+          "name": "",
+          "1": "Barha",
+          "2": "Jamrod",
+          "3": "Landi Kotal",
+          "4": "Maula Ghauri"
+        }
+      },
+      "3": {
+        "name": "Karam",
+        "0": {
+          "name": "",
+          "1": "Central Karam Agency",
+          "2": "Lower Karam Agency",
+          "3": "Upper Karam Agency"
+        }
+      },
+      "4": {
+        "name": "Mehmand",
+        "0": {
+          "name": "",
+          "1": "Utmaan Khail (Amber)",
+          "2": "Haleemzai",
+          "3": "Pindiala",
+          "4": "Pringhar",
+          "5": "Safi",
+          "6": "Upper Mehmand",
+          "7": "Yakka Ghund"
+        }
+      },
+      "5": {
+        "name": "Narth Waziristan",
+        "0": {
+          "name": "",
+          "1": "Ditta Khail",
+          "2": "Dosli",
+          "3": "Garhom",
+          "4": "Ghulam Khan",
+          "5": "Mir Ali",
+          "6": "Meran Shah",
+          "7": "Razmak",
+          "8": "Shiva",
+          "9": "Spainwaam"
+        }
+      },
+      "6": {
+        "name": "Orakzai",
+        "0": {
+          "name": "",
+          "1": "Central",
+          "2": "Ismailzai",
+          "3": "Lower",
+          "4": "Upper"
+        }
+      },
+      "7": {
+        "name": "South Waziristan",
+        "0": {
+          "name": "",
+          "1": "Barmail",
+          "2": "Lidha",
+          "3": "Maken",
+          "4": "Sararogha",
+          "5": "Sarweekai",
+          "6": "Tiyarza",
+          "7": "Toi Khala",
+          "8": "Wana"
+        }
+      }
+    },
+    "2": {
+      "name": "Qabaili Ilaqa",
+      "1": {
+        "name": "Lucky Marwat",
+        "0": {
+          "name": "",
+          "1": "Lucky Marwat"
+        }
+      },
+      "2": {
+        "name": "Bannu",
+        "0": {
+          "name": "",
+          "1": "Bannu"
+        }
+      },
+      "3": {
+        "name": "Dera Ismail Khan",
+        "0": {
+          "name": "",
+          "1": "Dera Ismail Khan"
+        }
+      },
+      "4": {
+        "name": "Kohat",
+        "0": {
+          "name": "",
+          "1": "Kohat"
+        }
+      },
+      "5": {
+        "name": "Peshawar",
+        "0": {
+          "name": "",
+          "1": "Peshawar"
+        }
+      },
+      "6": {
+        "name": "Tank",
+        "0": {
+          "name": "",
+          "1": "Tank"
+        }
+      }
+    }
+  },
+  "3": {
+    "name": "Punjab",
+    "1": {
+      "name": "Bahawalpur",
+      "1": {
+        "name": "Bahawalnagar",
+        "0": {
+          "name": "",
+          "1": "Bahawalnagar",
+          "2": "Chishtian",
+          "3": "Fort Abbas",
+          "4": "Haroonabad",
+          "5": "Munchanabad"
+        }
+      },
+      "2": {
+        "name": "Bahawalpur",
+        "0": {
+          "name": "",
+          "1": "Ahmedpur East",
+          "2": "Bahalpur",
+          "3": "Hasilpur",
+          "4": "Khairpur Tamiwali",
+          "5": "Yazmaan"
+        }
+      },
+      "3": {
+        "name": "Rahim Yaar Khan",
+        "0": {
+          "name": "",
+          "1": "Khan Pur",
+          "2": "Liaquatpur",
+          "3": "Rahim Yaar Khan",
+          "4": "Sadiqabad"
+        }
+      }
+    },
+    "2": {
+      "name": "Dera Ghazi Khan",
+      "1": {
+        "name": "Dera Ghazi Khan",
+        "0": {
+          "name": "",
+          "1": "Barthi",
+          "2": "Dera Ghazi Khan",
+          "3": "Tonsa"
+        }
+      },
+      "2": {
+        "name": "Layyah",
+        "0": {
+          "name": "",
+          "1": "Chobarah",
+          "2": "Karoorrh Lal Eesan",
+          "3": "Layyah"
+        }
+      },
+      "3": {
+        "name": "Muzaffargarh",
+        "0": {
+          "name": "",
+          "1": "Alipur",
+          "2": "Jatoi",
+          "3": "Kot Addu",
+          "4": "Muzaffargarh"
+        }
+      },
+      "4": {
+        "name": "Rajanpur",
+        "0": {
+          "name": "",
+          "1": "Rajan Pur (Qabaili Ilaqa)",
+          "2": "Jam Pur",
+          "3": "Rajan Pur",
+          "4": "Rojhaan"
+        }
+      }
+    },
+    "3": {
+      "name": "Faisalabad",
+      "1": {
+        "name": "Faisalabad",
+        "0": {
+          "name": "",
+          "0": "Faislabad",
+          "1": "Chak Jhumra",
+          "2": "Faisalabad City",
+          "3": "Faisalabad Sadar",
+          "4": "Jaranwala",
+          "5": "Samandri",
+          "6": "Tandlianwala"
+        }
+      },
+      "2": {
+        "name": "Jhang",
+        "0": {
+          "name": "",
+          "1": "Chiniot",
+          "2": "Jhang",
+          "3": "Shorkot",
+          "4": "Ahmad Pur Sial",
+          "5": "Athara Hazari"
+        }
+      },
+      "3": {
+        "name": "Toba Tek Singh",
+        "0": {
+          "name": "",
+          "1": "Gojra",
+          "2": "Kamalia",
+          "3": "Toba Tek Singh"
+        }
+      },
+      "4": {
+        "name": "Chiniot",
+        "0": {
+          "name": "",
+          "1": "Chiniot",
+          "2": "Lalian",
+          "3": "Bhawana"
+        }
+      }
+    },
+    "4": {
+      "name": "Gujranwala",
+      "1": {
+        "name": "Gujranwala",
+        "0": {
+          "name": "",
+          "1": "Gujranwala",
+          "2": "Kamoki",
+          "3": "Nowshera Warqa",
+          "4": "Wazirabad"
+        }
+      },
+      "2": {
+        "name": "Gujrat",
+        "0": {
+          "name": "",
+          "1": "Jalalpur Jatan",
+          "2": "Kharian",
+          "3": "Sarai Alamgir"
+        }
+      },
+      "3": {
+        "name": "Hafizabad",
+        "0": {
+          "name": "",
+          "1": "Hafizabad",
+          "2": "Pindi Bhattian"
+        }
+      },
+      "4": {
+        "name": "Mandi Bahauddin",
+        "0": {
+          "name": "",
+          "1": "Malikwal",
+          "2": "Mandi Bahauddin",
+          "3": "Phalia"
+        }
+      },
+      "5": {
+        "name": "Narowal",
+        "0": {
+          "name": "",
+          "1": "Narowal",
+          "2": "Shakargarh",
+          "3": "Zafarwaal"
+        }
+      },
+      "6": {
+        "name": "Sialkot",
+        "0": {
+          "name": "",
+          "1": "Daska",
+          "2": "Pasroor",
+          "3": "Sialkot",
+          "4": "Sambaryal"
+        }
+      }
+    },
+    "5": {
+      "name": "Lahore",
+      "1": {
+        "name": "Kasur",
+        "0": {
+          "name": "",
+          "1": "Choniya",
+          "2": "Kasur",
+          "3": "Pattoki",
+          "4": "Kot Radha Kishan"
+        }
+      },
+      "2": {
+        "name": "Lahore",
+        "0": {
+          "name": "",
+          "0": "Model Town",
+          "1": "Lahore Cantonment",
+          "2": "Lahore City"
+        }
+      },
+      "3": {
+        "name": "Okara",
+        "0": {
+          "name": "",
+          "1": "Depalpur",
+          "2": "Okara",
+          "3": "Renala Khurd"
+        }
+      },
+      "4": {
+        "name": "Sheikhupura",
+        "0": {
+          "name": "",
+          "1": "Ferozwala",
+          "2": "Nankana Sahib",
+          "3": "Safdarabad",
+          "4": "Sheikhupura",
+          "5": "Mureedkay"
+        }
+      },
+      "5": {
+        "name": "Nankana Sahib",
+        "0": {
+          "name": "",
+          "1": "Nankana Sahib",
+          "2": "Kot Shah",
+          "3": "Sangla Hul",
+          "4": "Safdarabad"
+        }
+      }
+    },
+    "6": {
+      "name": "Multan",
+      "1": {
+        "name": "Khanewal",
+        "0": {
+          "name": "",
+          "1": "Jahanian",
+          "2": "Kabeerwala",
+          "3": "Khanewal",
+          "4": "Mian Chunnu"
+        }
+      },
+      "2": {
+        "name": "Lodhran",
+        "0": {
+          "name": "",
+          "1": "Duniyapur",
+          "2": "Pakka Karoorh",
+          "3": "Lodhran"
+        }
+      },
+      "3": {
+        "name": "Multan",
+        "0": {
+          "name": "",
+          "1": "Jalalpur Pirwala",
+          "2": "Multan City",
+          "3": "Multan Sadar",
+          "4": "Shujabad"
+        }
+      },
+      "4": {
+        "name": "Pak Pattan",
+        "0": {
+          "name": "",
+          "1": "Arif Wala",
+          "2": "Pak Pattan"
+        }
+      },
+      "5": {
+        "name": "Sahiwal",
+        "0": {
+          "name": "",
+          "1": "Chichawatni",
+          "2": "Sahiwal"
+        }
+      },
+      "6": {
+        "name": "Vehari",
+        "0": {
+          "name": "",
+          "1": "Burewala",
+          "2": "Mailsi",
+          "3": "Vehari"
+        }
+      }
+    },
+    "7": {
+      "name": "Rawalpindi",
+      "1": {
+        "name": "Attock",
+        "0": {
+          "name": "",
+          "1": "Attock",
+          "2": "Fateh Jang",
+          "3": "Hassan Abdaal",
+          "4": "Jand",
+          "5": "Pindi Ghaib",
+          "6": "Hazro"
+        }
+      },
+      "2": {
+        "name": "Chakwal",
+        "0": {
+          "name": "",
+          "1": "Chakwal",
+          "2": "Choa Saeedan Shah",
+          "3": "Talagang",
+          "4": "Kalar Kahar"
+        }
+      },
+      "3": {
+        "name": "Jhelum",
+        "0": {
+          "name": "",
+          "1": "Jhelum",
+          "2": "Pind Dadan Khan",
+          "3": "Sohawa",
+          "4": "Dina"
+        }
+      },
+      "4": {
+        "name": "Rawalpindi",
+        "0": {
+          "name": "",
+          "1": "Gojar Khan",
+          "2": "Kahuta",
+          "3": "Kotli Sattiyan",
+          "4": "Murree",
+          "5": "Rawalpindi",
+          "6": "Taxila",
+          "7": "Kalar Syedan"
+        }
+      }
+    },
+    "8": {
+      "name": "Sargodha",
+      "1": {
+        "name": "Bhakkar",
+        "0": {
+          "name": "",
+          "1": "Bhakkar",
+          "2": "Driya Khan",
+          "3": "Kalor Kot",
+          "4": "Makirah"
+        }
+      },
+      "2": {
+        "name": "Khushab",
+        "0": {
+          "name": "",
+          "1": "Joharabad",
+          "2": "Nurpur Thal",
+          "3": "Qaidabad"
+        }
+      },
+      "3": {
+        "name": "Mianwali",
+        "0": {
+          "name": "",
+          "1": "Eesa Khai",
+          "2": "Mianwali",
+          "3": "Piplaan"
+        }
+      },
+      "4": {
+        "name": "Sargodha",
+        "0": {
+          "name": "",
+          "1": "Bhalwaal",
+          "2": "Sahiwal",
+          "3": "Sargodha",
+          "4": "Shahpur",
+          "5": "Silanwali",
+          "6": "Kot Momin"
+        }
+      }
+    }
+  },
+  "4": {
+    "name": "Sindh",
+    "1": {
+      "name": "Hyderabad",
+      "1": {
+        "name": "Badeen",
+        "0": {
+          "name": "",
+          "1": "Badeen",
+          "2": "Golarhchi",
+          "3": "Maatli",
+          "4": "Tando Baago",
+          "5": "Talhaar"
+        }
+      },
+      "2": {
+        "name": "Dadu",
+        "0": {
+          "name": "",
+          "1": "Goth Dadu",
+          "2": "Johi",
+          "3": "Khairpur Natan Shah",
+          "4": "Kotri",
+          "5": "Meharr",
+          "6": "Sehohan Sharif",
+          "7": "Thano Bola Khan"
+        }
+      },
+      "3": {
+        "name": "Hyderabad",
+        "0": {
+          "name": "",
+          "1": "Hala",
+          "2": "Hyderabad City",
+          "3": "Hyderabad",
+          "4": "Latifabad",
+          "5": "Matiyari",
+          "6": "Qasimabad",
+          "7": "Tando Allah Yaar",
+          "8": "Tando Muhammad Khan"
+        }
+      },
+      "4": {
+        "name": "Thatta",
+        "0": {
+          "name": "",
+          "1": "Ghorhabarhi",
+          "2": "Jaati",
+          "3": "Keti Bandar",
+          "4": "Karow Chan",
+          "5": "Mirpur Bathoro",
+          "6": "Mirpur Saakro",
+          "7": "Shah Bandar",
+          "8": "Sajawal",
+          "9": "Thatta"
+        }
+      },
+      "5": {
+        "name": "Jamshoro",
+        "0": {
+          "name": "",
+          "4": "Kotrhi",
+          "5": "Mnjhnd",
+          "6": "Sehohan Sharif",
+          "7": "Thano Bola Khan"
+        }
+      },
+      "6": {
+        "name": "Tando Muhammad Khan",
+        "0": {
+          "name": "",
+          "1": "Tando Muhammad Khan",
+          "2": "Bulrrey Shah Kareem",
+          "3": "Tando Ghulam Haider"
+        }
+      },
+      "7": {
+        "name": "Tando Allahiar",
+        "0": {
+          "name": "",
+          "1": "Tando Allahiar",
+          "2": "Chemberr",
+          "3": "Jhando Murree"
+        }
+      },
+      "8": {
+        "name": "Matiyari",
+        "0": {
+          "name": "",
+          "1": "Bhat Shah",
+          "2": "Hala",
+          "3": "Saeedabad"
+        }
+      }
+    },
+    "2": {
+      "name": "Karachi",
+      "0": {
+        "name": "Korangi",
+        "0": {
+          "name": "",
+          "0": ""
+        }
+      },
+      "1": {
+        "name": "Karachi Wasti",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      },
+      "2": {
+        "name": "Karachi Sharki",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      },
+      "3": {
+        "name": "Karachi South",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      },
+      "4": {
+        "name": "Karachi Gharbi",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      },
+      "5": {
+        "name": "Maleer",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      }
+    },
+    "3": {
+      "name": "Larkana",
+      "1": {
+        "name": "Jacobabad",
+        "0": {
+          "name": "",
+          "1": "Garhi Khairu",
+          "2": "Jacobabad",
+          "3": "Kandhkot",
+          "4": "Kashmor",
+          "5": "Thal"
+        }
+      },
+      "2": {
+        "name": "Larkana",
+        "0": {
+          "name": "",
+          "1": "Dokri",
+          "2": "Qambar",
+          "3": "Larrkano",
+          "4": "Mirukhan",
+          "5": "Ratodero",
+          "6": "Baqrani",
+          "7": "Waarh"
+        }
+      },
+      "3": {
+        "name": "Shikarpur",
+        "0": {
+          "name": "",
+          "1": "Garhi Yaaseen",
+          "2": "Khanpur",
+          "3": "Lucky",
+          "4": "Shikarpur"
+        }
+      },
+      "4": {
+        "name": "Qambar Shahdadkot",
+        "0": {
+          "name": "",
+          "1": "Sajawal Junejo",
+          "2": "Qambar",
+          "3": "Naseerabad",
+          "4": "Miru Khan",
+          "5": "Qabo Saeed Khan",
+          "6": "Shahdad Kot",
+          "7": "Waarh"
+        }
+      },
+      "5": {
+        "name": "Kashmor",
+        "0": {
+          "name": "",
+          "2": "Tanwati",
+          "3": "Kundh Kot",
+          "4": "Kashmor"
+        }
+      }
+    },
+    "4": {
+      "name": "Mirpur Khas",
+      "1": {
+        "name": "Mirpur Khas",
+        "0": {
+          "name": "",
+          "1": "Degree",
+          "2": "Kot Ghulam Muhammad",
+          "3": "Mirpur Khas",
+          "4": "Kanri",
+          "5": "Pathoro",
+          "6": "Samaro",
+          "7": "Umarkot",
+          "8": "Jhado",
+          "9": "Sindhri"
+        }
+      },
+      "2": {
+        "name": "Sanghar",
+        "0": {
+          "name": "",
+          "1": "Jaam Nawaz Ali",
+          "2": "Kupro",
+          "3": "Sanghar",
+          "4": "Shahdadpur",
+          "5": "Sanjhoro",
+          "6": "Tando Adam Khan"
+        }
+      },
+      "3": {
+        "name": "Tharparkar",
+        "0": {
+          "name": "",
+          "1": "Charchro",
+          "2": "Deplo",
+          "3": "Matti",
+          "4": "Nangar Parkar"
+        }
+      },
+      "4": {
+        "name": "Umarkot",
+        "0": {
+          "name": "",
+          "1": "Umarkot",
+          "2": "Samaro",
+          "3": "Pathoro",
+          "4": "Kenri"
+        }
+      }
+    },
+    "5": {
+      "name": "Sukkur",
+      "1": {
+        "name": "Ghotki",
+        "0": {
+          "name": "",
+          "1": "Dharki",
+          "2": "Ghotki",
+          "3": "Khan Gabarh",
+          "4": "Mirpur Mathelo",
+          "5": "Obharo"
+        }
+      },
+      "2": {
+        "name": "Khairpur",
+        "0": {
+          "name": "",
+          "1": "Faiz Ganj",
+          "2": "Gambat",
+          "3": "Khairpur",
+          "4": "Kangri",
+          "5": "Kot Dhaji",
+          "6": "Thari Mirwah",
+          "7": "Naro",
+          "8": "Sobhodero"
+        }
+      },
+      "3": {
+        "name": "Noshero Feroz",
+        "0": {
+          "name": "",
+          "1": "Barria",
+          "2": "Kundiyaro",
+          "3": "Moro",
+          "4": "Noshero Feroz",
+          "5": "Mehrabpur"
+        }
+      },
+      "4": {
+        "name": "Shaheed Benazirabad",
+        "0": {
+          "name": "",
+          "1": "Qazi Ahmad",
+          "2": "Nawab Shah",
+          "3": "Sakrand",
+          "4": "Daur"
+        }
+      },
+      "5": {
+        "name": "Sukkur",
+        "0": {
+          "name": "",
+          "1": "Pano Akil",
+          "2": "Rohrhi",
+          "3": "Saleh Pat",
+          "4": "Sukkur City",
+          "5": "New Sukkur"
+        }
+      }
+    }
+  },
+  "5": {
+    "name": "Balochistan",
+    "1": {
+      "name": "Kalat",
+      "1": {
+        "name": "Awaran",
+        "0": {
+          "name": "",
+          "1": "Awaran",
+          "2": "Mashkai",
+          "3": "Jhal Jhao"
+        }
+      },
+      "2": {
+        "name": "Kalat",
+        "0": {
+          "name": "",
+          "1": "Kalat",
+          "2": "Sorab",
+          "3": "Mangchar"
+        }
+      },
+      "3": {
+        "name": "Washuk",
+        "0": {
+          "name": "",
+          "1": "Khaaraan",
+          "2": "Mashjail",
+          "3": "Basema"
+        }
+      },
+      "4": {
+        "name": "Khuzdar",
+        "0": {
+          "name": "",
+          "1": "Khuzdar",
+          "2": "Nal",
+          "3": "Wadh",
+          "4": "Zuhri"
+        }
+      },
+      "5": {
+        "name": "Hub",
+        "0": {
+          "name": "",
+          "1": "Lasbela",
+          "2": "Dariji",
+          "3": "Hub",
+          "4": "Kanraj",
+          "5": "Othal",
+          "6": "Lakharha",
+          "7": "Sounmiyani",
+          "8": "Gadani"
+        }
+      },
+      "6": {
+        "name": "Mastung",
+        "0": {
+          "name": "",
+          "1": "Dasht",
+          "2": "Mastung"
+        }
+      }
+    },
+    "2": {
+      "name": "Makran",
+      "1": {
+        "name": "Gawadar",
+        "0": {
+          "name": "",
+          "1": "Gawadar",
+          "2": "Pasni",
+          "3": "Jevani"
+        }
+      },
+      "2": {
+        "name": "Kech",
+        "0": {
+          "name": "",
+          "1": "Balidah",
+          "2": "Dasht",
+          "3": "Turbat",
+          "4": "Tamp",
+          "5": "Mand"
+        }
+      },
+      "3": {
+        "name": "Panjgur",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      }
+    },
+    "3": {
+      "name": "Naseerabad",
+      "1": {
+        "name": "Kachi",
+        "0": {
+          "name": "",
+          "1": "Bhaag",
+          "2": "Dhadar",
+          "3": "Macha",
+          "4": "Sunni"
+        }
+      },
+      "2": {
+        "name": "Jaffarabad",
+        "0": {
+          "name": "",
+          "1": "Jhat Pat",
+          "2": "Osta Muhamad",
+          "3": "Sohbatpur",
+          "4": "Gandakha"
+        }
+      },
+      "3": {
+        "name": "Jhal Magsi",
+        "0": {
+          "name": "",
+          "1": "Gandavah",
+          "2": "Jhal Magsi",
+          "3": "Kachi Bhaag",
+          "4": "Kachi Sunni",
+          "5": "Kachi Macha",
+          "6": "Kachi Dhadar"
+        }
+      },
+      "4": {
+        "name": "Naseerabad",
+        "0": {
+          "name": "",
+          "1": "Chattar",
+          "2": "Dera Murad Jamali",
+          "3": "Jhat Pat",
+          "4": "Osta Muhammad",
+          "5": "Tambo"
+        }
+      }
+    },
+    "4": {
+      "name": "Quetta",
+      "1": {
+        "name": "Chaghi",
+        "0": {
+          "name": "",
+          "1": "Dalbandin",
+          "2": "Nushki",
+          "3": "Taftan",
+          "4": "Nokandi"
+        }
+      },
+      "2": {
+        "name": "Qila Abdullah",
+        "0": {
+          "name": "",
+          "1": "Chaman",
+          "2": "Guistan",
+          "3": "Qila Abdullah"
+        }
+      },
+      "3": {
+        "name": "Pishin",
+        "0": {
+          "name": "",
+          "1": "Barshore",
+          "2": "Karizaat",
+          "3": "Pishin",
+          "4": "Siranan",
+          "5": "Haramzai"
+        }
+      },
+      "4": {
+        "name": "Quetta",
+        "0": {
+          "name": "",
+          "0": "Quetta Sadar",
+          "1": "Quetta City",
+          "2": "Panjpai",
+          "3": ""
+        }
+      },
+      "5": {
+        "name": "Nushki",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      }
+    },
+    "5": {
+      "name": "Sibbi",
+      "1": {
+        "name": "Dera Bugti",
+        "0": {
+          "name": "",
+          "1": "Dera Bugti",
+          "2": "Phailogh",
+          "3": "Sui"
+        }
+      },
+      "2": {
+        "name": "Kohlu",
+        "0": {
+          "name": "",
+          "1": "Kahaan",
+          "2": "Kohlu",
+          "3": "Maund"
+        }
+      },
+      "3": {
+        "name": "Sibbi",
+        "0": {
+          "name": "",
+          "1": "Harnai",
+          "2": "Kohlu",
+          "3": "Sibbi",
+          "5": "Lehrhi",
+          "6": ""
+        }
+      },
+      "4": {
+        "name": "Ziarat",
+        "0": {
+          "name": "",
+          "1": "Ziarat",
+          "2": "Sanjavi"
+        }
+      },
+      "5": {
+        "name": "Harnai",
+        "0": {
+          "name": "",
+          "1": "Harnai",
+          "2": "Sharag"
+        }
+      }
+    },
+    "6": {
+      "name": "Zhob",
+      "1": {
+        "name": "Barkhan",
+        "0": {
+          "name": "",
+          "1": "Barkhan"
+        }
+      },
+      "2": {
+        "name": "Qila Saifullah",
+        "0": {
+          "name": "",
+          "1": "Qila Saifullah",
+          "2": "Musim Bagh"
+        }
+      },
+      "3": {
+        "name": "Loralai",
+        "0": {
+          "name": "",
+          "1": "Dakki",
+          "2": "Loralai",
+          "3": "Barkhan",
+          "4": "Musa Khail"
+        }
+      },
+      "4": {
+        "name": "Musakhail",
+        "0": {
+          "name": "",
+          "1": "Musakhail",
+          "2": "Kangri"
+        }
+      },
+      "5": {
+        "name": "Zhob",
+        "0": {
+          "name": "",
+          "1": "Qamar Din Karez",
+          "2": "Sherani",
+          "3": "Zhob"
+        }
+      },
+      "6": {
+        "name": "Zhob",
+        "0": {
+          "name": "",
+          "1": "Sherani"
+        }
+      }
+    }
+  },
+  "6": {
+    "name": "Islamabad",
+    "1": {
+      "name": "",
+      "1": {
+        "name": "",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      }
+    }
+  },
+  "7": {
+    "name": "Gilgit",
+    "1": {
+      "name": "",
+      "1": {
+        "name": "Baltistan",
+        "0": {
+          "name": "",
+          "1": "Karmang",
+          "2": "Shagar",
+          "3": "Skardu",
+          "4": "Ronado"
+        }
+      },
+      "2": {
+        "name": "Diamer",
+        "0": {
+          "name": "",
+          "1": "Astoor",
+          "2": "Chalas",
+          "3": "Tangeer"
+        }
+      },
+      "3": {
+        "name": "Ghanchay",
+        "0": {
+          "name": "",
+          "1": "Khaplo",
+          "2": "Mashabarom"
+        }
+      },
+      "4": {
+        "name": "Ghazar",
+        "0": {
+          "name": "",
+          "1": "Gopas",
+          "2": "Panial",
+          "4": "Ashoman"
+        }
+      },
+      "5": {
+        "name": "Hunza Nagar",
+        "0": {
+          "name": "",
+          "1": "Basen",
+          "2": "Hunza",
+          "3": "Nagr",
+          "4": "Aliabad",
+          "5": "Gojaal"
+        }
+      },
+      "6": {
+        "name": "Astoor",
+        "0": {
+          "name": "",
+          "1": ""
+        }
+      }
+    }
+  },
+  "8": {
+    "name": "Azad Kashmir",
+    "1": {
+      "name": "Mirpur",
+      "1": {
+        "name": "Bhimber",
+        "0": {
+          "name": "",
+          "1": "Barnala",
+          "2": "Bhimber",
+          "3": "Samahni"
+        }
+      },
+      "2": {
+        "name": "Kotli",
+        "0": {
+          "name": "",
+          "1": "Fatehpur Thakiala Nakiaal",
+          "2": "Kotli",
+          "3": "Sehansa"
+        }
+      },
+      "3": {
+        "name": "Mirpur",
+        "0": {
+          "name": "",
+          "1": "Dudyaal",
+          "2": "Mirpur"
+        }
+      }
+    },
+    "2": {
+      "name": "Muzaffarabad",
+      "1": {
+        "name": "Bagh",
+        "0": {
+          "name": "",
+          "1": "Bagh",
+          "2": "Dheerkot",
+          "3": "Haveli"
+        }
+      },
+      "2": {
+        "name": "Muzaffarabad",
+        "0": {
+          "name": "",
+          "1": "Athmuqaam",
+          "2": "Hattiyan Bala",
+          "3": "Muzaffarabad"
+        }
+      },
+      "3": {
+        "name": "Poonch",
+        "0": {
+          "name": "",
+          "1": "Abbaspur",
+          "2": "Hajera",
+          "3": "Rawalakot"
+        }
+      },
+      "4": {
+        "name": "Sudhanoti",
+        "0": {
+          "name": "",
+          "1": "Plandri",
+          "3": "Baloch"
+        }
+      },
+      "5": {
+        "name": "Neelum",
+        "0": {
+          "name": "",
+          "1": "Athmuqaam",
+          "2": "Sharda"
+        }
+      },
+      "6": {
+        "name": "Haveli",
+        "0": {
+          "name": "",
+          "2": "Forward Kahuta"
+        }
+      },
+      "7": {
+        "name": "Hattiyan Bala",
+        "0": {
+          "name": "",
+          "1": "Hattiyan Bala",
+          "3": "Chakaar"
+        }
+      }
+    }
+  }
+}
